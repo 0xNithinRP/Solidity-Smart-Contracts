@@ -1,4 +1,4 @@
-//SPDX-License-Identifier: <License Name>
+//SPDX-License-Identifier: MIT
 pragma solidity <Compiler version>;
 import "FileName/Directory.sol";
 enum nameOfEnum {
